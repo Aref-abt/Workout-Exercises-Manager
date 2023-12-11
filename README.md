@@ -3,7 +3,7 @@
 
 ## Overview
 
-This mobile app is designed to help users track their fitness progress and achieve their workout goals. It allows users to log and monitor various exercises while providing visual representations of their achievements.
+This mobile app is a very basic app designed to help users track their fitness progress and achieve their workout goals. It allows users to log and monitor various exercises while providing visual representations of their achievements, and it is under development.
 
 ## Team Members
 
