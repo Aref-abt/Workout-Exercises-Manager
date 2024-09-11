@@ -276,7 +276,7 @@ class _ExerciseLogScreenState extends State<ExerciseLogScreen> {
       ),
     );
   }
-
+ //update the goal screen
   void updateGoalsScreen(
       {double squats = 0.0, double deadlifts = 0.0, double burpees = 0.0}) {
     setState(() {
