@@ -5,7 +5,7 @@ import 'exersice_log.dart';
 void main() {
   runApp(MyApp());
 }
-
+//dark mode
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
