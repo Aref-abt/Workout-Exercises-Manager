@@ -277,7 +277,6 @@ class _ExerciseLogScreenState extends State<ExerciseLogScreen> {
                   completeExercise('Burpees');
                 },
               ),
-              // Add more exercises as needed
             ],
           ),
         ),
