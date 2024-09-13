@@ -307,7 +307,7 @@ class ExerciseCard extends StatelessWidget {
     required this.onComplete,
     required this.onProgressChanged,
   });
-
+ //card
   @override
   Widget build(BuildContext context) {
     return Card(
