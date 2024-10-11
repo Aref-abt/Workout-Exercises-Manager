@@ -8,7 +8,6 @@ This mobile app is a very basic app designed to help users track their fitness p
 ## Team Members
 
 - Aref Abou Trabi (aref.aboutrabu7@gmail.com)
-- Rani Sharaf Din
 
 ## Features
 
